@@ -17,7 +17,7 @@ public class SpringJupiterDemoApplication {
 
 	@GetMapping
 	public String hello() {
-		return "Hello User";
+		return "Hello User your application is deployed successfully to acure";
 	}
 
 }
